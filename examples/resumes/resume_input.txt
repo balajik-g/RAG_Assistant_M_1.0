@@ -1,0 +1,5 @@
+Rajesh Kumar has 12 years of experience in software engineering. He worked at Infosys and Accenture. His core skills include Java, Spring Boot, Microservices, and AWS Cloud. Has AWS Cloud Practioner Certification
+
+Santhosh has 10 years of experience in software engineering. He worked at TCS and Accenture. His core skills include Java, Python, Microservices, and Google Cloud. Has GCP Associate Certification
+
+Naveen has 10 years of experience in software engineering. He worked as Freelancer. His core skills include Python, FastAPI, Microservices, and Google Cloud. Has GCP Associate Certification

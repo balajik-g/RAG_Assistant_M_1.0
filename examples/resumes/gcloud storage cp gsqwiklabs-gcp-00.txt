@@ -1,0 +1,1 @@
+gcloud storage cp gs://qwiklabs-gcp-00-c7b2374d429c/sample.txt .
